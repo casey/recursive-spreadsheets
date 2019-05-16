@@ -244,13 +244,17 @@ class: center, middle
 
 class: center, middle
 
-## 1. If you know who works on spreadsheets, please pester them until recursive spreadsheets are a thing.
+## 1.
+
+## If you know who works on spreadsheets, please pester them until recursive spreadsheets are a thing
 
 ---
 
 class: center, middle
 
-## 2. Always look for opportunites to put things inside of themselves.
+## 2.
+
+## Always look for opportunites to put things inside of themselves
 
 ???
 
@@ -262,7 +266,9 @@ But when you're a programmer and you're making tools, this is always a good idea
 
 class: center, middle
 
-## 3. Try to Trick People into Programming
+## 3.
+
+## Trick People into Programming
 
 ???
 
