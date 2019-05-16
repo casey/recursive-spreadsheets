@@ -238,13 +238,19 @@ class: center, middle
 
 class: center, middle
 
-## The Moral of the Story
+## The Three Morals of the Story
 
 ---
 
 class: center, middle
 
-## Always look for opportunites to put things inside of themselves.
+## 1. If you know who works on spreadsheets, please pester them until recursive spreadsheets are a thing.
+
+---
+
+class: center, middle
+
+## 2. Always look for opportunites to put things inside of themselves.
 
 ???
 
@@ -256,7 +262,7 @@ But when you're a programmer and you're making tools, this is always a good idea
 
 class: center, middle
 
-## Trick People into Programming
+## 3. Try to Trick People into Programming
 
 ???
 
@@ -264,13 +270,7 @@ class: center, middle
 
 - as technology increases in complexity and ubiquity, things with smooth difficulty curves that trick people into programming are important avenues of empowerment
 
-- i would really like to live in a world where people who use spreadsheets start out swearing up and down that they're not programmers, and they get deeper and deeper into excel or google sheets or whatever, until one day uploading like, some kind of gonzo pre-Gregorian calendar or linear algebra spreadsheet that they made to some kind of spreadsheet package repository, so other people can use it, and they look over their shoulder and see you, and all the color drains out of their face because they realize that they have to give up and admit that they're programmers, and then you clasp them on the shoulder and explain the lambda calculus to them like a raving lunatic, and they're a little confused because they don't why such a thing would ever be useful, but they get it, because, well, isn't it just a bunch of little spreadsheets that call each other?
-
----
-
-class: center, middle
-
-## If you know who works on spreadsheets, please pester them until recursive spreadsheets are a thing.
+- i would really like to live in a world where people who use spreadsheets start out swearing up and down that they're not programmers, and they get deeper and deeper into excel or google sheets or whatever, until one day uploading like, some kind of spreadsheet that they made does linear algebra or calculates tax exemptions for uzbeki dairy farmers, to some kind of spreadsheet package repository, so other people can use it, and they look over their shoulder and see you, and all the color drains out of their face because they realize that they have to give up and admit that they're programmers, and then you clasp them on the shoulder and explain the lambda calculus to them like a raving lunatic, and they're a little confused because they don't why such a thing would ever be useful, but they get it, because, well, it's just a bunch of little spreadsheets that call each other, right?
 
 ---
 
