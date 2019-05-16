@@ -4,67 +4,276 @@ class: center, middle
 
 ### _or_
 
-### How to Liberate Excel Users from the Shackles of Visual Basic
+### On the Liberation of Excel Users from the Shackles of Visual Basic
 
 ### _and_
 
-### How to Free Google Sheets Users from the Crushing Jackboot of JavaScript
+### On the Rescue of Google Sheets Users from the Crushing Jackboot of JavaScript
 
 ---
 
+class: center, middle
+
+## I 💖 Spreadsheets
+
 ---
 
-Recursive Spreadsheets
--or-
+class: center, middle
 
-Spreadsheets should allow users to define new functions directly without learning a separate programming language like VBA.
+## Incredibly Powerful
 
-Let's say you want a function that calculates the fibonacci sequence so you can use it in your fibonacci-related spreadsheet.
+---
 
-You should be able to accomplish this by creating a new worksheet named `FIB()` and populating it with:
+class: center, middle
 
-  | A |    B   |
---+---+--------+
-1 | N | RETURN |
---+---+--------+
-2 |   |        |
---+---+--------+
+### Silky Smooth Learning Curve
 
-You would then right-click A2, and tell Excel that it an argument. Similarly, you would right-click B2 and tell Excel that it contains a return value.
+<svg height="400" width="600">
+  <rect height="400" width="600" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)" />
+  <line x1="0" y1="400" x2="600" y2="0" style="stroke:rgb(0,0,255);stroke-width:2" />
+</svg>
 
-Inside B2 would go the expression `=If(A2>2,FIB(A2-1) + FIB(A2-2),A2)`
+---
 
-Then, you should be able to use `FIB(N)` in your spreadsheet and have Excel calculate the value by substituting `N` into the `FIB()` worksheet.
+## Ramps up Gently
 
-Do any spreadsheets have this feature? I 
+- 🧮 Grid of Numbers
 
-- googling recursive spreadsheets is really disappointing
+--
 
-- always look for how to put the tool you're making inside of itself
-- beautiful learning curve
-  - static text
-  - formatting
-  - simple formulas
-  - crazy fomrulas
-  - excel trading bot
-- important for non-programmers to have tools with this nice learning curve
-  - mention python, rcers automate their job
-  - mention emacs, secretaries were writing lisp functions and saying that they aren't weren't programmers
-  - excel is another good one
-  - a terminal is another good one (steep initial, but just ad an iff, for loop, variable, or whatever)
+- 😍 Cute Formatting
 
-- i really want a world where people use computers and claim that they aren't programmers, and do really awesome crazy stuff, and claim that they're not programming, and that they're not programmers, and just make their claims less and less and less credible, until they're finally forced to admit that they're programmers
+--
 
-- this is how things are empowering. they have a nice, smooth learning curve (python hump at beginning and hump at the end, rust huge hump but then smooth, c is awful, excel is smooth but then hits a wall)
+- 👨‍🔬 Simple Formulæ
 
-- show those terrible tables that people make
+--
 
-- pretend that it exists, but really implement it in javascript
+- 📊 Colorful Charts
 
-- recursion makes things shockingly powerful
+--
+
+- 🧐 VBA-Powered Algorithmic Trading Bot
+--
+
+
+- 📉  That Just Lost Thirty Thousand Bucks when the Market Opened
+--
+
+
+- 😭 OH MY GOD HOW AM I GOING TO EXPLAIN THIS TO MY SPOUSE
+---
+
+## But not as Gently as it Could…
+
+- 🧮 Grid of Numbers
+
+- 😍 Cute Formatting
+
+- 👨‍🔬 Simple Formulæ
+
+- 📊 Colorful Charts
+
+- 🧐 VBA-Powered Algorithmic Trading Bot
+
+- 📉  That Just Lost Thirty Thousand Bucks when the Market Opened
+
+- 😭 OH MY GOD HOW AM I GOING TO EXPLAIN THIS TO MY SPOUSE
+
+---
+
+## But not as Gently as it Could…
+
+- 🧮 Grid of Numbers
+
+- 😍 Cute Formatting
+
+- 👨‍🔬 Simple Formulæ
+
+- 📊 Colorful Charts
+
+- 🧐 VBA-Powered Algorithmic Trading Bot
+
+- 📉  That Just Lost Thirty Thousand Bucks when the Market Opened
+
+---
+
+## But not as Gently as it Could…
+
+- 🧮 Grid of Numbers
+
+- 😍 Cute Formatting
+
+- 👨‍🔬 Simple Formulæ
+
+- 📊 Colorful Charts
+
+- 🧐 VBA-Powered Algorithmic Trading Bot
+
+---
+
+## But not as Gently as it Could…
+
+- 😍 Cute Formatting
+
+- 👨‍🔬 Simple Formulæ
+
+- 📊 Colorful Charts
+
+- 🧐 VBA-Powered Algorithmic Trading Bot
+
+---
+
+## But not as Gently as it Could…
+
+- 👨‍🔬 Simple Formulæ
+
+- 📊 Colorful Charts
+
+- 🧐 VBA-Powered Algorithmic Trading Bot
+
+---
+
+## But not as Gently as it Could…
+
+- 📊 Colorful Charts
+
+- 🧐 VBA-Powered Algorithmic Trading Bot
+
+---
+
+## But not as Gently as it Could…
+
+- 🧐 VBA-Powered Algorithmic Trading Bot
+
+---
+
+## But not as Gently as it Could…
+
+- 🧐 VBA-Powered Algorithmic Trading
+
+---
+
+## But not as Gently as it Could…
+
+- 🧐 VBA-Powered Algorithmic 
+
+---
+
+## But not as Gently as it Could…
+
+- 🧐 VBA-Powered 
+
+---
+
+## But not as Gently as it Could…
+
+- 🧐 VBA
+
+---
+
+## But not as Gently as it Could…
+
+- VBA
+
+---
+
+class: center, middle
+
+## VBA
+
+---
+
+class: center, middle
+
+# VBA
+
+---
+
+class: center, middle
+
+# VBA
+
+## The Problem is that it's not Excel
+
+---
+
+class: center, middle
+
+## ✨ Recursive Spreadsheets ✨
+
+--
+
+#### _please forgive the lies_
+
+---
+
+class: center, middle
+
+## 💥 DEMO TIME 💥
+
+## <a href="https://docs.google.com/spreadsheets/d/1x1QOC2myHk658eqzP_qLVVoQ3cA8Th7UNVIsWgGTqp0" target="_blank">CLICK ME</a>
+
+???
+
+- open spreadsheet
+- define fib using column of numbers
+- change to "Recursive Spreadsheet"
+- create new sheet called FIB()
+- explain that amber is for argument and red is for result
+- show that you can use it elsewhere in the spreadsheet
+- reveal that it's just JS
+
+---
+
+class: center, middle
+
+## _I am so sorry for all the lies…_
+
+???
 
 - i'm convinced that adding this to excel would make it shockingly powerful
 
-- another pattern is to make somethings output its own input, to facilitate chaining
+---
 
-- yo dog, i put a spreadsheet inside your spreadsheet so you can spreadsheet while you spreadsheet
+class: center, middle
+
+## The Moral of the Story
+
+---
+
+class: center, middle
+
+## Always look for opportunites to put things inside of themselves.
+
+???
+
+If you were making a hammer, and you tried to put a little hammer on the end of a big hammer, so it could hammer, like more or faster or whatever, people would look at you like you were quite mad.
+
+But when you're a programmer and you're making tools, this is always a good idea to at least entertain.
+
+---
+
+class: center, middle
+
+## Trick People into Programming
+
+???
+
+- create tools that let people slide into programming without realizing it
+
+- as technology increases in complexity and ubiquity, things with smooth difficulty curves that trick people into programming are important avenues of empowerment
+
+- i would really like to live in a world where people who use spreadsheets start out swearing up and down that they're not programmers, and they get deeper and deeper into excel or google sheets or whatever, until one day uploading like, some kind of gonzo pre-Gregorian calendar or linear algebra spreadsheet that they made to some kind of spreadsheet package repository, so other people can use it, and they look over their shoulder and see you, and all the color drains out of their face because they realize that they have to give up and admit that they're programmers, and then you clasp them on the shoulder and explain the lambda calculus to them like a raving lunatic, and they're a little confused because they don't why such a thing would ever be useful, but they get it, because, well, isn't it just a bunch of little spreadsheets that call each other?
+
+---
+
+class: center, middle
+
+## If you know who works on spreadsheets, please pester them until recursive spreadsheets are a thing.
+
+---
+
+class: center, middle
+
+## Thank you!
